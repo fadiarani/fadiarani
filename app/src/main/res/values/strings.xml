@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="labelapp">Pendaftaran</string>
+    <string name="Nama_Depan">Nama Depan</string>
+    <string name="Nama_Belakang">Nama Belakang</string>
+    <string name="Tempat_Lahir">Tempat Lahir</string>
+    <string name="Tanggal_Lahir">Tanggal Lahir</string>
+    <string name="Alamat">Alamat</string>
+    <string name="jk">Jenis Kelamin</string>
+    <string name="l">Laki-Laki</string>
+    <string name="p">Perempuan</string>
+    <string name="ag">Agama</string>
+    <string name="is">Islam</string>
+    <string name="ka">Katolik</string>
+    <string name="bu">Buddha</string>
+    <string name="al">Aliran Kepercayaan</string>
+    <string name="kr">Kristen</string>
+    <string name="hi">Hindu</string>
+    <string name="ko">Konghucu</string>
+    <string name="Telepon">Telepon</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="mk">Masukkan Password Kembali</string>
+    <string name="k">KEMBALI</string>
+    <string name="d">DAFTAR</string>
+</resources>
