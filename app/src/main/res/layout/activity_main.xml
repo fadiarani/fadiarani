@@ -41,6 +41,7 @@
                 android:layout_height="match_parent">
 
                 <EditText
+                    android:id="@+id/editnd"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:ems="10"
@@ -48,6 +49,7 @@
                     android:inputType="textPersonName" />
 
                 <EditText
+                    android:id="@+id/editnb"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:ems="18"
@@ -60,6 +62,7 @@
                 android:layout_height="match_parent">
 
                 <EditText
+                    android:id="@+id/edittmp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:ems="10"
@@ -67,6 +70,7 @@
                     android:textColor="@color/txt" />
 
                 <EditText
+                    android:id="@+id/edittgl"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:ems="10"
@@ -76,6 +80,7 @@
             </TableRow>
 
             <EditText
+                android:id="@+id/editalm"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:ems="100"
@@ -146,24 +151,28 @@
             android:layout_height="wrap_content" />
 
         <EditText
+            android:id="@+id/edittelp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="18"
             android:hint="@string/Telepon" />
 
         <EditText
+            android:id="@+id/editemail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="18"
             android:hint="@string/Email" />
 
         <EditText
+            android:id="@+id/editpass"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="18"
             android:hint="@string/Password" />
 
         <EditText
+            android:id="@+id/editconpass"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="18"
@@ -182,6 +191,7 @@
                 android:layout_height="wrap_content">
 
                 <Button
+                    android:id="@+id/btnok1"
                     android:layout_width="150dp"
                     android:layout_height="60dp"
                     android:layout_gravity="end"
@@ -189,6 +199,7 @@
                     android:text="@string/k" />
 
                 <Button
+                    android:id="@+id/btnok"
                     android:layout_width="150dp"
                     android:layout_height="49dp"
                     android:layout_gravity="end"
